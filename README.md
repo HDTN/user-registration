@@ -15,7 +15,8 @@ O projeto utiliza o **ConfigModule** do NestJS para carregar variáveis de ambie
 
      DATABASE_HOST     = localhost
      DATABASE_PORT     = 3306
-     DATABASE_USERNAME = root DATABASE_PASSWORD = senha
+     DATABASE_USERNAME = root 
+     DATABASE_PASSWORD = senha
      DATABASE_NAME     = meu_banco
      
 
